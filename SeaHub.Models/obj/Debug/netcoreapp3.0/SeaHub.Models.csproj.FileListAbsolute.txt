@@ -1,0 +1,15 @@
+D:\Web Çalışmaları\WebAppCore3\WebAppCore3\SeaHub.Models\bin\Debug\netcoreapp3.0\SeaHub.Models.deps.json
+D:\Web Çalışmaları\WebAppCore3\WebAppCore3\SeaHub.Models\bin\Debug\netcoreapp3.0\SeaHub.Models.dll
+D:\Web Çalışmaları\WebAppCore3\WebAppCore3\SeaHub.Models\bin\Debug\netcoreapp3.0\SeaHub.Models.pdb
+D:\Web Çalışmaları\WebAppCore3\WebAppCore3\SeaHub.Models\obj\Debug\netcoreapp3.0\SeaHub.Models.AssemblyInfoInputs.cache
+D:\Web Çalışmaları\WebAppCore3\WebAppCore3\SeaHub.Models\obj\Debug\netcoreapp3.0\SeaHub.Models.AssemblyInfo.cs
+D:\Web Çalışmaları\WebAppCore3\WebAppCore3\SeaHub.Models\obj\Debug\netcoreapp3.0\SeaHub.Models.dll
+D:\Web Çalışmaları\WebAppCore3\WebAppCore3\SeaHub.Models\obj\Debug\netcoreapp3.0\SeaHub.Models.pdb
+D:\Web Çalışmaları\WebAppCore3\WebAppCore3\SeaHub.Models\obj\Debug\netcoreapp3.0\SeaHub.Models.csprojAssemblyReference.cache
+D:\Web Projects\SeaHubCore3\SeaHub.Models\bin\Debug\netcoreapp3.0\SeaHub.Models.deps.json
+D:\Web Projects\SeaHubCore3\SeaHub.Models\bin\Debug\netcoreapp3.0\SeaHub.Models.dll
+D:\Web Projects\SeaHubCore3\SeaHub.Models\bin\Debug\netcoreapp3.0\SeaHub.Models.pdb
+D:\Web Projects\SeaHubCore3\SeaHub.Models\obj\Debug\netcoreapp3.0\SeaHub.Models.AssemblyInfoInputs.cache
+D:\Web Projects\SeaHubCore3\SeaHub.Models\obj\Debug\netcoreapp3.0\SeaHub.Models.AssemblyInfo.cs
+D:\Web Projects\SeaHubCore3\SeaHub.Models\obj\Debug\netcoreapp3.0\SeaHub.Models.dll
+D:\Web Projects\SeaHubCore3\SeaHub.Models\obj\Debug\netcoreapp3.0\SeaHub.Models.pdb

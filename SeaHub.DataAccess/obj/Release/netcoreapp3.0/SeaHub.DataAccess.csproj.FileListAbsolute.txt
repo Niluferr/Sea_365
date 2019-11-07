@@ -1,0 +1,13 @@
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\bin\Release\netcoreapp3.0\SeaHub.DataAccess.deps.json
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\bin\Release\netcoreapp3.0\SeaHub.DataAccess.dll
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\bin\Release\netcoreapp3.0\SeaHub.DataAccess.pdb
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\bin\Release\netcoreapp3.0\SeaHub.Models.dll
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\bin\Release\netcoreapp3.0\SeaHub.Utility.dll
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\bin\Release\netcoreapp3.0\SeaHub.Models.pdb
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\bin\Release\netcoreapp3.0\SeaHub.Utility.pdb
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\obj\Release\netcoreapp3.0\SeaHub.DataAccess.csprojAssemblyReference.cache
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\obj\Release\netcoreapp3.0\SeaHub.DataAccess.AssemblyInfoInputs.cache
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\obj\Release\netcoreapp3.0\SeaHub.DataAccess.AssemblyInfo.cs
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\obj\Release\netcoreapp3.0\SeaHub.DataAccess.csproj.CopyComplete
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\obj\Release\netcoreapp3.0\SeaHub.DataAccess.dll
+D:\Web Projects\SeaHubCore3\SeaHub.DataAccess\obj\Release\netcoreapp3.0\SeaHub.DataAccess.pdb

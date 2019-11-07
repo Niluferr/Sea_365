@@ -1,0 +1,8 @@
+D:\Web Projects\SeaHubCore3\SeaHub.Utility\bin\Release\netcoreapp3.0\SeaHub.Utility.deps.json
+D:\Web Projects\SeaHubCore3\SeaHub.Utility\bin\Release\netcoreapp3.0\SeaHub.Utility.dll
+D:\Web Projects\SeaHubCore3\SeaHub.Utility\bin\Release\netcoreapp3.0\SeaHub.Utility.pdb
+D:\Web Projects\SeaHubCore3\SeaHub.Utility\obj\Release\netcoreapp3.0\SeaHub.Utility.csprojAssemblyReference.cache
+D:\Web Projects\SeaHubCore3\SeaHub.Utility\obj\Release\netcoreapp3.0\SeaHub.Utility.AssemblyInfoInputs.cache
+D:\Web Projects\SeaHubCore3\SeaHub.Utility\obj\Release\netcoreapp3.0\SeaHub.Utility.AssemblyInfo.cs
+D:\Web Projects\SeaHubCore3\SeaHub.Utility\obj\Release\netcoreapp3.0\SeaHub.Utility.dll
+D:\Web Projects\SeaHubCore3\SeaHub.Utility\obj\Release\netcoreapp3.0\SeaHub.Utility.pdb
